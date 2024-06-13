@@ -25,7 +25,7 @@ Steps to use the tool:
 Additional Features:
 - Settings: Configure the path to Volatility 3 executable.
 - Help: Display this help message.
-- Export: Save the analysis results to a file (CSV or PDF).
+- Export: Save the analysis results to a file (CSV, PDF or TXT).
 - Search: Search for specific text within the analysis results.
 - Expand: Expand or collapse the view area of the analysis results.
 
