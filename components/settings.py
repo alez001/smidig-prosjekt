@@ -197,7 +197,7 @@ def show_settings_window(self):
                                      hover_color=self.header_color)
     save_path_button.pack(pady=10)
 
-    # Renderer selection label and option menu
+    # Renderer selection label and option menu.
     renderer_label = ctk.CTkLabel(self.settings_modal, text="Default Renderer:", font=self.font,
                                   text_color=self.text_bright)
     renderer_label.pack(pady=10)
